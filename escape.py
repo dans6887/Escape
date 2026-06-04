@@ -29,7 +29,7 @@ program for a clue to the range offrequencies to try.)""")
 time.sleep(6)
 
 robot_frequency = random.randint(100, 1000) #the resonant frequency of the robot guards is randomly generated between 100 and 1000 Hz
-print(robot_frequency) #for testing purposes, you can comment this line out to hide the frequency from the player
+#print(robot_frequency) #for testing purposes, you can comment this line out to hide the frequency from the player
 
 chances = 10
 won = False
